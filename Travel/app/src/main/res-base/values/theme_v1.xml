@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="V1AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/turquoise</item>
+        <item name="colorPrimaryDark">@color/turquoise</item>
+        <item name="colorAccent">@color/pink.dark</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:buttonStyleToggle">@style/Toggle</item>
+
+        <item name="color_main">@color/turquoise</item>
+        <item name="color_text_big">@color/gray.dark</item>
+        <item name="color_text_small">@color/gray.dim</item>
+        <item name="color_text">@color/gray</item>
+        <item name="color_divider">@color/gray.light</item>
+        <item name="color_warn">@color/orange</item>
+
+        <!-- 这些都没有必要考虑兼容，所以直接在这里而不是dimens.xml中赋值 -->
+        <item name="text_tip">13sp</item>
+        <item name="text_desc">14sp</item>
+        <item name="head_small">16sp</item>
+        <item name="head_medium">17sp</item>
+        <item name="head_big">19sp</item>
+        <item name="head_large">21sp</item>
+        <item name="head_huge">23sp</item>
+        <item name="btn_height">49dp</item>
+
+    </style>
+
+</resources>

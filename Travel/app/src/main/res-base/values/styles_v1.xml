@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- 开关样式 -->
+    <style name="Toggle">
+        <item name="android:clickable">true</item>
+        <item name="android:button">@drawable/btn_toggle</item>
+    </style>
+
+</resources>

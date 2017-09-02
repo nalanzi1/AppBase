@@ -1,0 +1,7 @@
+base - BaseActivity、BaseFragment等
+
+notes - 游记
+
+route - 行程
+  create - 创建行程
+  show - 行程展示

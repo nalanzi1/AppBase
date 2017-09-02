@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app color set -->
+    <attr name="color_main" format="color"/>
+    <attr name="color_text_big" format="color"/>
+    <attr name="color_text_small" format="color"/>
+    <attr name="color_text" format="color"/>
+    <attr name="color_divider" format="color"/>
+    <attr name="color_warn" format="color"/>
+
+    <!-- app dimen set -->
+    <attr name="text_tip" format="dimension"/>
+    <attr name="text_desc" format="dimension"/>
+    <attr name="head_small" format="dimension"/>
+    <attr name="head_medium" format="dimension"/>
+    <attr name="head_big" format="dimension"/>
+    <attr name="head_large" format="dimension"/>
+    <attr name="head_huge" format="dimension"/>
+    <attr name="btn_height" format="dimension"/>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text.tip">13sp</dimen>
+    <dimen name="text.desc">14sp</dimen>
+    <dimen name="head.small">16sp</dimen>
+    <dimen name="head.medium">17sp</dimen>
+    <dimen name="head.big">19sp</dimen>
+    <dimen name="head.large">21sp</dimen>
+    <dimen name="head.huge">23sp</dimen>
+    <dimen name="btn.height">49dp</dimen>
+
+</resources>

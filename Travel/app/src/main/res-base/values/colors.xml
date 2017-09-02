@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue.primary">#3F51B5</color>
+    <color name="blue.PrimaryDark">#303F9F</color>
+    <color name="pink.dark">#FF4081</color>
+
+    <color name="turquoise">#23B6B7</color>
+    <color name="gray.dark">#545454</color>
+    <color name="gray.dim">#696969</color>
+    <color name="gray">#ADADAD</color>
+    <color name="gray.light">#DFDFDF</color>
+    <color name="orange">#FF5A00</color>
+    
+</resources>
